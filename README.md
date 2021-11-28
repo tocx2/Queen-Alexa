@@ -12,7 +12,7 @@
 </p>g
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tocx2/Queen-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
@@ -39,9 +39,9 @@ WhatsApp Bot
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
-- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+- Owner number [56973432424](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
+- Owner Name [Tꪮ᥊ỉᨶ](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
+- Bot Name [ALEXA](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
 
 ## `CHANGE DYNO`
 
